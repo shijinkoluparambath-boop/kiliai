@@ -1,0 +1,7 @@
+{
+  "name": "KILIAI",
+  "description": "KILIAI: Real-time audio transcription and translation into Malayalam, powered by Gemini. Speak or upload audio for instant results.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
